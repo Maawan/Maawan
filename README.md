@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maawanahmad" target="blank"><img src="https://img.shields.io/twitter/follow/maawanahmad?logo=twitter&style=for-the-badge" alt="maawanahmad" /></a> </p>
 
-- 🔭 I’m currently working on [AlgoMingle (Interviewing Platform)](https://github.com/Maawan/AlgoMingle----Backend)
+- 🔭 I’m currently working as a Software Enginner in TCS and building a strong backend for an internal project using spring boot
 
 - 🌱 I’m currently learning **NextJS**
 
